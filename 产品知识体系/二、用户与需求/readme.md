@@ -50,6 +50,78 @@
 当很难通过用户获取到真实有效的信息时，就把自己变成用户<br/>
 
 ## 4、如何给用户需求进行排序？
-需求分析有两种核心方法：定性分析和定量分析
-（1）、定性分析
-   -> 1.1、Kano模型
+需求分析有两种核心方法：定性分析和定量分析<br/>
+（1）、定性分析<br/>
+   -> 1.1、Kano模型<br/>
+   
+   <table data-sort="sortDisabled">
+       <tbody>
+           <tr class="firstRow">
+               <td valign="top" colspan="2" rowspan="2" style="word-break: break-all;">
+                   飞哥简化版KANO模型
+               </td>
+               <td valign="top" rowspan="1" colspan="3" style="word-break: break-all;" width="180">
+                   如果没有的话
+               </td>
+           </tr>
+           <tr>
+               <td width="180" valign="top" style="word-break: break-all;">
+                   开心
+               </td>
+               <td width="180" valign="top" style="word-break: break-all;">
+                   无所谓
+               </td>
+               <td width="180" valign="top" style="word-break: break-all;">
+                   不开心
+               </td>
+           </tr>
+           <tr>
+               <td valign="top" colspan="1" rowspan="3" width="180" style="word-break: break-all;">
+                   如果有的话<br/>
+               </td>
+               <td width="180" valign="top" style="word-break: break-all;">
+                   开心
+               </td>
+               <td width="180" valign="top" style="word-break: break-all;">
+                   矛盾
+               </td>
+               <td width="180" valign="top" style="word-break: break-all;">
+                   惊喜
+               </td>
+               <td width="180" valign="top" style="word-break: break-all;">
+                   期待
+               </td>
+           </tr>
+           <tr>
+               <td width="180" valign="top" style="word-break: break-all;">
+                   无所谓
+               </td>
+               <td width="180" valign="top" style="word-break: break-all;">
+                   错误
+               </td>
+               <td width="180" valign="top" style="word-break: break-all;">
+                   无关
+               </td>
+               <td width="180" valign="top" style="word-break: break-all;">
+                   必要
+               </td>
+           </tr>
+           <tr>
+               <td valign="top" colspan="1" rowspan="1" width="180" style="word-break: break-all;">
+                   不开心
+               </td>
+               <td valign="top" colspan="1" rowspan="1" width="180" style="word-break: break-all;">
+                   错误
+               </td>
+               <td valign="top" colspan="1" rowspan="1" width="180" style="word-break: break-all;">
+                   错误
+               </td>
+               <td valign="top" colspan="1" rowspan="1" width="180" style="word-break: break-all;">
+                   矛盾
+               </td>
+           </tr>
+       </tbody>
+   </table>
+   <p>
+       <br/>
+   </p>
