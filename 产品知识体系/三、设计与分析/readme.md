@@ -95,3 +95,5 @@
 &emsp;&emsp;&emsp;&emsp;工作中比较复杂的，步骤繁琐的事物能不能简单处理<br/>
 &emsp;&emsp;&emsp;&emsp;简单处理的事物能不能形成标准化的流程机制<br/>
 &emsp;&emsp;&emsp;&emsp;标准化的流程机制能否实现自动化<br/>
+
+
