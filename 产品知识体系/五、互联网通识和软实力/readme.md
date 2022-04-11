@@ -39,6 +39,8 @@
 
 ## 5、跟老板想法不一样怎么办
 
+![image](https://github.com/muyexiaogui/Product/raw/master/extension/WechatIMG128.jpeg)
+
 
 
 
