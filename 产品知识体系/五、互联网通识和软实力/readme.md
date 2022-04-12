@@ -50,6 +50,55 @@
 ## 7、如何避免给开发团队挖坑
 1、搞明白基本的一些技术背景和技术概念<br/>
 2、学会梳理产品逻辑（数据结构，信息流程和逻辑关系）<br/>
+![image](https://github.com/muyexiaogui/Product/blob/master/extension/image/美团酒店销售数据结构.png)
+![image](https://github.com/muyexiaogui/Product/blob/master/extension/image/订单状态转化图.png)
+![image](https://github.com/muyexiaogui/Product/blob/master/extension/image/取消订单机制.png)
+3、出现坑的时候，多复盘<br/>
+（文档是否周全；协作缺少沟通，需求总是变动）<br/>
+
+## 8、如何避免自己变成项目经理
+1、产品经理需要处理很多"分外"的事情<br/>
+2、作为产品新人，不要为琐碎感而焦虑<br/>
+3、正确地解决问题，让工作更高效<br/>
+
+## 9、哪些工具能提高工作效率
+1、协作工具<br/>
+->1.1、需求管理：伙伴办公<br/>
+&emsp;&emsp;能够详细记录需求的不同属性<br/>
+&emsp;&emsp;能够快速制定负责人，状态，优先级别<br/>
+&emsp;&emsp;能够对一个需求进行评论和操作的记录<br/>
+&emsp;&emsp;能够同步共享到所有人，并有不同的操作权限<br/>
+->1.2、任务协作：Tita/Teambition/Worktile<br/>
+2、个人工具<br/>
+->2.1、格式化书写：Markdown<br/>
+->2.2、可视化描述：图表数据直观<br/>
+->2.3、整理记录：笔记本&笔+Evernote<br/>
+&emsp;&emsp;把问题和相关的元素列清楚<br/>
+&emsp;&emsp;把结论和相关的过程记录清楚<br/>
+->2.4、原型和交互：Sketch/keynote/PowerPoint/墨刀<br/>
+->2.5、免费图标/图片：Iconfinder/Pixabay<br/>
+
+## 10、有哪些好的工作习惯
+1、开会别带手机<br/>
+2、沟通用面谈和电话解决<br/>
+3、用绝大多数人都在用的工具<br/>
+4、搞明白同事都在做什么（有利于协作）<br/>
+5、别怕认错<br/>
+6、领导的事都是大事<br/>
+7、利用好暗时间<br/>
+
+## 11、思维混乱、条理性差应该怎么提高
+1、对信息多做独立思考和判断（多思考为什么，多想一想）<br/>
+2、观看、参加辩论<br/>
+3、生活工作中有条有理（1、内容分条，2、分清主次，3、简明扼要）<br/>
+
+
+## 12、怎么样提高说话技巧
+1、事前做足准备（做好手稿和大纲）<br/>
+2、有针对性的练习<br/>
+3、注重别人感受，多做复盘<br/>
+4、讲事情时，注意逻辑和调理<br/>
+
 
 
 
