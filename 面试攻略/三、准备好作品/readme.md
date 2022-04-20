@@ -331,11 +331,93 @@ S(strengths)W(weaknesses)O(opportunities)T(threats) 优势，劣势，机会，�
 &emsp;&emsp;1)、根据产品定位确定目标用户，在分析时需要将不同的目标用户进行特点分类，方便满足不同需求场景<br/>
 &emsp;&emsp;2)、分析需求的目标用户，某个需求到底满足谁的需求，是普通用户还是专业用户？用户需求加上商业目标可以找到重点服务对象。<br/>
 &emsp;&emsp;3)、产品用户划分：<br/>
-![image]()
+![image](https://github.com/muyexiaogui/Product/blob/master/extension/image/麦肯锡八分法.jpeg)
+<table data-sort="sortDisabled">
+    <tbody>
+        <tr class="firstRow">
+            <td valign="middle" rowspan="1" colspan="2" align="center" style="word-break: break-all;">
+                目标用户对比
+            </td>
+        </tr>
+        <tr>
+            <td width="483" valign="middle" align="center" style="word-break: break-all;">
+                淘宝<br/>
+            </td>
+            <td width="483" valign="middle" align="center" style="word-break: break-all;">
+                虎嗅
+            </td>
+        </tr>
+        <tr>
+            <td width="483" valign="top" style="word-break: break-all;">
+                目标用户：所有有一定计算机或者手机操作能力的，有网上购物或者购物需求的用户
+            </td>
+            <td width="483" valign="top" style="word-break: break-all;">
+                目标用户：关注互联网新闻的互联网从业人员
+            </td>
+        </tr>
+        <tr>
+            <td width="483" valign="top" style="word-break: break-all;">
+                <p>
+                    用户细分维度：
+                </p>
+                <p>
+                    1、地域：一线、二线、三线、四线城市
+                </p>
+                <p>
+                    2、消费能力：高中低类
+                </p>
+                <p>
+                    3、主要购买用品类：日用、服装、食品
+                </p>
+                <p>
+                    4、对网络操作的熟悉程度：熟悉，一般，陌生
+                </p>
+            </td>
+            <td width="483" valign="top" style="word-break: break-all;">
+                <p>
+                    用户细分维度：
+                </p>
+                <p>
+                    1、性别：男性为主，女性为辅
+                </p>
+                <p>
+                    2、年龄：18-35
+                </p>
+                <p>
+                    3、教育：学历水平较高，专科本科研究生居多
+                </p>
+                <p>
+                    4、收入水品较高
+                </p>
+                <p>
+                    5、地理位置：以一线、二线城市为主
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <br/>
+</p>
 ->3、用户使用的场景是什么？<br/>
+&emsp;&emsp;1)、在XX时间（when），XX地点（where），周围出现了某些事物时（what），特定的用户（who）萌发了什么欲望（desire），想通过XX手段（method）来解决<br/>
 ->4、对应场景下的需求是什么？<br/>
+&emsp;&emsp;1)、源点：企业的现状<br/>
+&emsp;&emsp;2)、目的地：未来实现的效果<br/>
+&emsp;&emsp;3)、驱动力：问题，场景或者情况<br/>
+&emsp;&emsp;4)、阻力：成本多少？需要付出什么代价？<br/>
 ->5、该需求的实现步骤闭环是什么样的？每步骤下有哪些维度？<br/>
 ->6、产品发展前景如何，产品目前处于什么阶段？<br/>
+&emsp;&emsp;对市场前景的预测主要判断下面3个因素：
+&emsp;&emsp;1)、目前同类产品在市场上的状况，包括品牌，质量，价位，产品附加值
+&emsp;&emsp;2)、目前同类产品市场竞争情况分析，主要评估目前的竞争水平和市场空间
+&emsp;&emsp;3)、产品的性价比、市场营销手段，产品综合优势和市场同类产品的对比
+&emsp;&emsp;对市场前景的预测可得结论：
+&emsp;&emsp;1)、产品在目前市场竞争环境下得生存空间
+&emsp;&emsp;2)、产品提升市场占有率得可能性及前景
+![image]()
+
+
 ->7、市场容量，市场变化趋势，技术基础是什么？<br/>
 ->8、产品的易用性，功能完整性，用户体验等怎么样？<br/>
 ->9、如果做改进方案，添加什么功能？优化哪些功能？优先级如何？<br/>

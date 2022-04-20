@@ -7,3 +7,5 @@ https://cdc.tencent.com/product
 百度PM-star大赛
 腾讯T派校园之星
 搜狐快站创业大赛
+
+产品知识Git：https://github.com/CHENSISISI/NOTE
